@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "StudentAttendanceSystem", "StudentAttendanceSystem.rptproj", "{58346371-6683-48D7-89CB-64F1226169F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58346371-6683-48D7-89CB-64F1226169F8}.Debug|Default.ActiveCfg = Debug
+		{58346371-6683-48D7-89CB-64F1226169F8}.Debug|Default.Build.0 = Debug
+		{58346371-6683-48D7-89CB-64F1226169F8}.Debug|Default.Deploy.0 = Debug
+		{58346371-6683-48D7-89CB-64F1226169F8}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{58346371-6683-48D7-89CB-64F1226169F8}.DebugLocal|Default.Build.0 = DebugLocal
+		{58346371-6683-48D7-89CB-64F1226169F8}.Release|Default.ActiveCfg = Release
+		{58346371-6683-48D7-89CB-64F1226169F8}.Release|Default.Build.0 = Release
+		{58346371-6683-48D7-89CB-64F1226169F8}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A25AA3-2CCC-421D-8681-C90D2CEA01BF}
+	EndGlobalSection
+EndGlobal
